@@ -1,7 +1,7 @@
 BODY {
         background-image: url("topbanner.png"); /*style="float:left";*/
         background-position:120px 0px;
-		background-color:#DCDCDC
+		background-color:#DCDCDC;
         /*background-position: left top;*/
         background-repeat: no-repeat;
         width: 1cm;
