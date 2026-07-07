@@ -45,8 +45,8 @@ body {
 
 /* Change color on hover */
 .sidenav a:hover {
-  background-color: #DCDCDC;
-  color: black;
+  background-color: #DCDCAA;
+  color: #DCDCDC;
 }
 
 /* Style the content */
