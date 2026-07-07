@@ -46,14 +46,14 @@ body {
 /* Change color on hover */
 .sidenav a:hover {
   background-color: #DCDCDC;
-  color: #DCDCDC;
+  color: #A9A9A9;
 }
 
 /* Style the content */
 .content {
   margin-left: 220px;
   /*padding-left: 20px;*/
-  width: 900px;
+  width: 700px;
 }
 </style>
 </head>
