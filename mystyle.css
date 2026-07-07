@@ -13,13 +13,13 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   background-image: url("topbanner.png"); /*style="float:left";*/
-        background-position:220px 0px;
+  background-position:220px 0px;
 	/*background-color:#DCDCDC;*/
-        background-color:#FFFFFF;
+  background-color:#FFFFFF;
         /*background-position: left top;*/
-        background-repeat: no-repeat;
-        width: 1cm;
-        margin-top: 130px; 
+  background-repeat: no-repeat;
+  width: 1cm;
+  margin-top: 130px; 
 }
 
 /* Style the side navigation */
@@ -45,7 +45,7 @@ body {
 
 /* Change color on hover */
 .sidenav a:hover {
-  background-color: #ddd;
+  background-color: #DCDCDC;
   color: black;
 }
 
